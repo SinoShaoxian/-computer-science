@@ -6,5 +6,5 @@
    "topK" summary: the top K largest elements in array  
    首发于知乎平台：https://zhuanlan.zhihu.com/p/306176756
 2. 对动态规划与图论的重新思考  
-   Rethinking about DP and graph theory(based on LeetCode:354)  
+   Rethinking about DP and graph theory(based on LeetCode: 354)  
    知乎url：https://zhuanlan.zhihu.com/p/356917071
