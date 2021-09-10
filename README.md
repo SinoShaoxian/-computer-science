@@ -3,6 +3,6 @@
  This repo includes articles related to data structure & algorithms, computer network, operating system and computer orgnization & architecture.  
  
 1. topK问题总结：数组中的前k大元素
-   "topK" summary: the top K largest elements in array
+   "topK" summary: the top K largest elements in array  
    首发于知乎平台：https://zhuanlan.zhihu.com/p/306176756
 2. 
